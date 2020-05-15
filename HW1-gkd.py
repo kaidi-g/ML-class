@@ -31,7 +31,7 @@ label = 'diagnosis'
 # In[3]:
 
 
-Counter(data[label])
+#Counter(data[label])
 
 
 # In[4]:
